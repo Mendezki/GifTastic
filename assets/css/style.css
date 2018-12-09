@@ -1,0 +1,27 @@
+body {
+    background-image: url(../images/tex2res4_@2X.png)
+}
+h1 {
+    font-family: 'Bungee', cursive;
+    color: white;
+}
+#band-form {
+    font-family: 'Questrial', sans-serif;
+    color: white;
+}
+#add-band {
+    background: darkslateblue;
+    color: white;
+    font-family: 'Bungee', cursive;
+}
+button {
+    background: white;
+    color: gray;
+    font-size: 18px;
+    font-family: 'Bungee', cursive;
+    text-align: center;
+    margin: 6px;
+}
+button:hover {
+    box-shadow: 0 5px 12px 0 goldenrod;
+}
