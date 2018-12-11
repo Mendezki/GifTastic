@@ -25,3 +25,6 @@ button {
 button:hover {
     box-shadow: 0 5px 12px 0 goldenrod;
 }
+.bandGifs {
+    float: left;
+}
